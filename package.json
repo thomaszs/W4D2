@@ -1,0 +1,25 @@
+{
+  "name": "w4d2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "pg": "^7.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaszs/W4D2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaszs/W4D2/issues"
+  },
+  "homepage": "https://github.com/thomaszs/W4D2#readme"
+}
